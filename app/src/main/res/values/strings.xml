@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">orhreservation</string>
+    <string-array name="Directorate_Wise">
+        <item>Computer</item>
+        <item>Electronics</item>
+        <item>Electrical</item>
+        <item>Mechinical</item>
+        <item>test1</item>
+    </string-array>
+    <string-array name="Disignation_Wise">
+        <item>Director</item>
+        <item>EDRT</item>
+        <item>Director/HQ</item>
+        <item>AIE/MOD</item>
+        <item>AIE/GEN</item>
+        <item>test1</item>
+    </string-array>
+</resources>
